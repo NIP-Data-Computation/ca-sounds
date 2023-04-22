@@ -10,3 +10,6 @@ These files are open to the public and can be used for your own, if you want to 
 
 ### Cite as: 
 Menchavez, R. M. (2023). *Sound Synthesis with the Totalistic Rule Cellular Automata*. Retrieved From: https://github.com/NIP-Data-Computation/ca-sounds
+
+### Contact at:
+melodelle82@gmail.com, and say hi to Rae!
