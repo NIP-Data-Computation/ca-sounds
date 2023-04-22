@@ -9,5 +9,4 @@ These are the resulting sounds from Roselle Mae M. Menchavez' BS Thesis entitled
 These files are open to the public and can be used for your own, if you want to show these results elsewhere. Just please don't claim it as your own <3
 
 ### Cite as: 
-*(will be editting again for the full citations later)*
-Menchavez, R. M. (2023). Sound Synthesis with the Totalistic Rule Cellular Automata.
+Menchavez, R. M. (2023). *Sound Synthesis with the Totalistic Rule Cellular Automata*. Retrieved From: https://github.com/NIP-Data-Computation/ca-sounds
