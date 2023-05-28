@@ -1,6 +1,6 @@
 # ca-sounds
 
-These are the resulting sounds from Roselle Mae M. Menchavez' BS Thesis entitled **Sound Synthesis with the Totalistic Rule Celullar Automata**.
+These are the resulting sounds from Roselle Mae M. Menchavez' BS Thesis entitled **Sound Synthesis with Totalistic Rule Celullar Automata**.
 
 1. The sounds that are made with varying states, k = 4 to 10, are in [varying states](https://github.com/NIP-Data-Computation/ca-sounds/tree/main/varying%20states) folder. All of the sounds there have the rules consecutive ascending depending on the base equivalent with its respective states. The code used to generate the sounds can be accessed [here](https://colab.research.google.com/drive/1WVnGrXpQaQXCZR-S1u48cPpsWd9yQoek?usp=sharing)
 
